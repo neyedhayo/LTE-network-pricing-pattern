@@ -1,12 +1,12 @@
-## :Zone.Identifier files
+# LTE Network Dynamic Pricing Pattern Prediction
 
-Deleting `:Zone.Identifier` file created by Windows for security purpose
+currently building....
 
-![Sample of :Zone.Identifier](images/image.png)
+<!-- ![Sample of :Zone.Identifier](images/image.png) -->
 
 ## Verbose Output Compression
 
-Using the -v (verbose) option, which will show the compression process and the amount of space saved.
+Deleting `:Zone.Identifier` file created by Windows for security purpose. Using the -v (verbose) option, which will show the compression process and the amount of space saved.
 
 ```sh
     gzip -vk *.csv
